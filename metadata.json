@@ -1,0 +1,6 @@
+{
+  "name": "MindReflect - AI Journal & Reflection",
+  "description": "User-authenticated AI journaling and reflection companion powered by Gemini and secured by Firebase Auth and Cloud Firestore with strict per-user data isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
